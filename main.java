@@ -10,7 +10,11 @@ public class main{
     }
 
     static void llorar(){
+<<<<<<< HEAD
         System.out.println("Llorar 200");
+=======
+        System.out.println("Llorar111");
+>>>>>>> Tarea-2
     }
 
     public static void main(String[] args){
